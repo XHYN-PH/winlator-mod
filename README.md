@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-      <b><a href="https://github.com/XHYN-PH/winlator-mod/issues">GAME COMPATIBILITY LIST</a> • <a href="#download">DOWNLOAD</a></b>
+      <b><a href="https://github.com/XHYN-PH/winlator-mod/issues">GAME COMPATIBILITY LIST</a> • <a href="https://winlator.com/">VISIT WINLATOR SITE</a></b>
 </p>
 
 <h4 align="center">Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
@@ -25,7 +25,7 @@
 
 ---
 
-# Winlator - Android Windows Emulator
+# Winlator
 - This is an unofficial modication of Winlator based on Afei Mod & Main.
 - I'm not the creator of any cache I modified. All files used on this cache is from respective owners/developers.
 
@@ -58,25 +58,30 @@ Android 9 above is supported (8.x is also maybe supported)
 | Adreno 7xx | SUPPORTED | SUPPORTED | SUPPORTED | PARTIALLY | YES |
 
 #### VIRGL OVERLAY
-- VirGL Overlay uses `virgl-renderer` as the renderer. To run VirGL Overlay in Exagear, you need any graphics accelerator with support for **OpenGL ES 2.1(3.0)** and higher. Author of original development VirGL Overlay is [Mittorn](https://github.com/mittorn/virglrenderer-android), author of modifications is [alexvorxx](https://github.com/alexvorxx/VirGL-Overlay-Rebuild).
+> VirGL Overlay uses `virgl-renderer` as the renderer. To run VirGL Overlay in Exagear, you need any graphics accelerator with support for **OpenGL ES 2.1(3.0)** and higher. Author of original development VirGL Overlay is [Mittorn](https://github.com/mittorn/virglrenderer-android), author of modifications is [alexvorxx](https://github.com/alexvorxx/VirGL-Overlay-Rebuild).
 #### TURNIP
-- [Turnip](https://www.exagear.wiki/index.php?title=Turnip) open source Vulkan driver for Adreno. It uses the files `/dev/kgsl-3d0`, `/dev/dri/card0` to access the GPU. It requires Adreno 610+ GPU to run.
+> [Turnip](https://www.exagear.wiki/index.php?title=Turnip) open source Vulkan driver for Adreno. It uses the files `/dev/kgsl-3d0`, `/dev/dri/card0` to access the GPU. It requires Adreno 610+ GPU to run.
 #### DDRAW & LLVM
-- DDRAW is part of windows from very old OS, It supported all devices. While LLVM is software renderer which is very slow but good compatibility.
+> DDRAW is part of windows from very old OS, It supported all devices. While LLVM is software renderer which is very slow but good compatibility.
 
 Turnip+Zink are part of the Mesa drivers.
 
 ---
 
-### 🪲 BUGS & PROBLEMS
-- Winlator task manager is broken, process isn't showing.
-- Stop services on startup button isn't functioning, you can kill it manually though.
-- **Adreno 7xx** has flickering problems due to Turnip problems.
+### BUGS & TIPS
+Some problems, bugs, and tips for the Winlator
 
----
+> [!CAUTION]
+> Winlator task manager is broken, process isn't showing.
 
-### 📝 TIPS
-- To solve not woking renderers For **Snapdragon 845** please turn off Dri3 extension in Winlator Settings
+> [!CAUTION]
+> "Stop services on startup" button isn't functioning, you can kill it manually though.
+
+> [!CAUTION]
+> **Adreno 7xx** has flickering problems due to Turnip problems.
+
+> [!TIP]
+> To solve not woking renderers For **Snapdragon 845** please turn off Dri3 extension in Winlator Settings.
 
 ---
 
