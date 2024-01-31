@@ -68,7 +68,7 @@ Turnip+Zink are part of the Mesa drivers.
 
 ---
 
-### BUGS & TIPS
+### 🐞 BUGS & TIPS
 Some problems, bugs, and tips for the Winlator
 
 > [!CAUTION]
