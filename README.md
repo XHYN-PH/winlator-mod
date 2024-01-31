@@ -31,7 +31,7 @@
 
 ---
 
-## ❓FAQ - Frequently Asked Question(s)
+## ❓ FAQ - Frequently Asked Question(s)
 Question #1: **DOES THIS SUPPORTS X64 or 64-BITS ???**
 - Yes, It supports x64 applications. You may want to check other alternatives such as **[Termux-Box](https://github.com/olegos2/termux-box)**, **[Box64Droid](https://github.com/Ilya114/Box64Droid)**, **[MoBox](https://github.com/olegos2/mobox)**, **[Box4Droid](https://github.com/Herick75/Box4Droid)**, **[MiceWine](https://github.com/KreitinnSoftware/MiceWine)**, **[BRVM](https://github.com/Gamelover7825/BRVM)**, **[Fex-Android](https://github.com/AllPlatform/Fex-Android)**, **[androBox](https://github.com/Pipetto-crypto/androBox)**
 
@@ -75,12 +75,12 @@ Turnip+Zink are part of the Mesa drivers.
 
 ---
 
-### TIPS
+### 📝 TIPS
 - To solve not woking renderers For **Snapdragon 845** please turn off Dri3 extension in Winlator Settings
 
 ---
 
-### DOWNLOAD
+### 📂 DOWNLOAD
 
 ---
 
