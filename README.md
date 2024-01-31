@@ -48,7 +48,7 @@ Question #4: **IS IT MUCH FASTER THAN OTHER EMULATORS ???**
 
 ### 📲 PHONE REQUIREMENTS
 Android 9 above is supported (8.x is also maybe supported)
-#### COMPATIBLE GPU(s)
+
 | GPU        | DDRAW | VIRGL OVERLAY | LLVM RENDERER | TURNIP | DXVK |
 | ---------- | ----- | ------------- | ------------- | ------ | ---- |
 | Mali GPUs  | SUPPORTED | SUPPORTED | SUPPORTED | NO | NO |
