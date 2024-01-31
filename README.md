@@ -89,24 +89,6 @@ Some problems, bugs, and tips for the Winlator
 
 ---
 
-### 🌐 COMMUNITIES
-
-- [Alien's Community](https://t.me/exageartesting)
-- [MishkaKolos Telegram](https://t.me/MishkaKolosExagear)
-- [MishkaKolos Discord](https://discord.com/invite/qJ4HvDt)
-- [ExaGear Allmod](https://t.me/exagearallmod)
-- [Ajay's Community](https://discord.gg/XpbEp3dWv3)
-- [Denis Rachev Community](https://t.me/denis_rachev2)
-- [WEmu WIP](https://t.me/+IubWjXHbtScwOWQy)
-- [Cassia WIP](https://discord.gg/XnbXNQM)
-- [Project009's Community](https://discord.com/invite/GAg9eYg24G)
-- [Box64Droid Discord](https://discord.gg/thjpZ4P7Bm)
-- [Box64Droid Telegram](https://t.me/box64droidchat)
-- [CoreLand's Community](https://t.me/CoreLand)
-- [JotarOS Commmunity](https://t.me/EmulatorsROM)
-
----
-
 ### 📚 ACKNOWLEDGEMENTS
 
 - [Windows Compatibility Layer by WineHQ](https://www.winehq.org/)
